@@ -1,7 +1,7 @@
 # Medical Unified Database System | SQL, Python, HTML, CSS
 
-• Tracking patient’s medical history and maintaining record of the patient.
-• A centralized Medical Unified Database System that securely stores and manages patient records, medical histories,
+Tracking patient’s medical history and maintaining record of the patient.
+A centralized Medical Unified Database System that securely stores and manages patient records, medical histories,
 prescriptions, and diagnostic data. It enables seamless data sharing among healthcare providers, ensuring accurate and
 efficient treatment while maintaining data privacy and compliance with medical standards.
 
