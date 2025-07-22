@@ -1,7 +1,11 @@
+Patient Details
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5130b3f1-7e50-4280-915d-9bafc351271a" />
 
+Details View
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/aaf91742-a44e-4b24-85c2-29482b9e92e7" />
 
+Booking Appointment
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/359788f3-8435-4fff-8f11-c49e07e93277" />
 
+View Appointment
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bfe133ab-c19c-4546-bd7d-881ff9e27e6d" />
