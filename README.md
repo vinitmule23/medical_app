@@ -1,11 +1,17 @@
 # Patient Details
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5130b3f1-7e50-4280-915d-9bafc351271a" />
+<img width="1920" height="903" alt="Image" src="https://github.com/user-attachments/assets/ae0ca262-b08d-448d-9940-c649043f1c2b" />
 
 # Details View
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/aaf91742-a44e-4b24-85c2-29482b9e92e7" />
+<img width="1920" height="899" alt="Image" src="https://github.com/user-attachments/assets/d518837d-54c3-414d-857c-6e5046ca6e32" />
 
 # Booking Appointment
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/359788f3-8435-4fff-8f11-c49e07e93277" />
+<img width="1920" height="902" alt="Image" src="https://github.com/user-attachments/assets/c71e14ce-4945-4c66-904e-3a0f69397de5" />
 
 # View Appointment
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bfe133ab-c19c-4546-bd7d-881ff9e27e6d" />
+<img width="1920" height="894" alt="Image" src="https://github.com/user-attachments/assets/8a06ea36-dfa1-4b0b-8663-8492676ee47f" />
+
+
+
+
+
+
